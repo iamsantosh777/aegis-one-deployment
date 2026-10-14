@@ -1,0 +1,6 @@
+{
+  "name": "AEGIS ONE",
+  "description": "Intelligent Emergency Response & Personal Safety Platform. One Tap. One Response. One Step Toward Safety.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
